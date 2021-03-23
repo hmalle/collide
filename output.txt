@@ -1,1 +1,0 @@
-g++  -o xcollide *.cpp  -Wall -g  -I/usr/include/SDL2 -D_REENTRANT -pthread -lSDL2  -lm
